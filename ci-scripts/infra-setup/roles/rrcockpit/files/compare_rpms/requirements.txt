@@ -3,6 +3,7 @@ cachecontrol
 click
 flask
 flask-wtf
+mock
 prettytable
 requests
 toolchest
